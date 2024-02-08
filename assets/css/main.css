@@ -3,9 +3,9 @@
   ____________________*/
   --color-primary: #25ab75;
   --color-primary-dark: #208c61;
-  --color-bg-primary: #100d1e;
-  --color-bg-secondary: #1a162b;
-  --color-bg-footer: #141024;
+  --color-bg-primary: #141526;
+  --color-bg-secondary: #141526;
+  --color-bg-footer: #131322;
   --color-white: #ffffff;
   --color-text: #aaa7a7;
   --color-border: #373737;
@@ -381,7 +381,7 @@ body {
   justify-content: center;
   /* gap: 2rem; */
   border-radius: 0.8rem;
-  box-shadow: var(--box-shadow);
+  box-shadow: 0px 4px 10px rgb(149 138 138 / 10%)
 }
 
 .skills__content {
